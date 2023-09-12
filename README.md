@@ -1,4 +1,4 @@
-# Ayushwhatever
+# AyushMANdolin
 
 This simple front-end-based solidity dapp enables token transactions by allowing you to connect to a Metamask wallet. Added Revert feature to improve backend.
 
